@@ -1,0 +1,338 @@
+﻿body {
+    text-align: center;
+}
+.Oneqestion1{
+  text-align:center;
+}
+h1{
+    font-size:60px;
+}
+.food {
+    display: flex;
+    flex-direction: row;
+    justify-content:space-around;
+    margin-left:18%;
+    margin-right:18%; 
+}
+img{
+    border-radius:5px;
+}
+.foodbackground {
+    padding: 20px;
+    background-color: rgba(220, 210, 210,0.1);
+    border-radius: 10px;
+    font-size: 20px;
+    margin-bottom: 13px;
+}
+button {
+    border:inherit;
+}
+.month {
+    width: 50%;
+    height: 60px;
+    border-radius: 5px;
+    border: solid rgb(11, 9, 9);
+    background-color: white;
+    margin-bottom: 5px;
+    font-size: 20px;
+    margin-bottom: 13px;
+
+}
+.Oneqestion2{
+    text-align:center;
+}
+.month:hover {
+    background-color: #e785ba;
+}
+.trips {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-left: 18%;
+    margin-right: 18%;
+    margin-bottom: 13px;
+}
+.trip1 {
+    padding: 20px;
+    background-color: rgba(220, 210, 210,0.1);
+    border-radius: 10px;
+    font-size: 20px;
+}
+.trip2 {
+    padding: 20px;
+    background-color: rgba(220, 210, 210,0.1);
+    border-radius: 10px;
+    font-size: 20px;
+}
+.Oneqestion3 {
+    text-align: center;
+}
+.Oneqestion4 {
+    text-align: center;
+}
+#orange{
+    height:350px;
+    width:370px;
+    background-color:orange;
+    border-radius:10px;
+}
+#red {
+    height: 350px;
+    width: 370px;
+    background-color: red;
+    border-radius: 10px;
+}
+#yellow {
+    height: 350px;
+    width: 370px;
+    background-color:yellow;
+    border-radius: 10px;
+}
+#pink {
+    height: 350px;
+    width: 370px;
+    background-color: deeppink;
+    border-radius: 10px;
+}
+#blue {
+    height: 350px;
+    width: 370px;
+    background-color: blue;
+    border-radius: 10px;
+}
+#green {
+    height: 350px;
+    width: 370px;
+    background-color: lawngreen;
+    border-radius: 10px;
+}
+.colors {
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-column-gap: 30px;
+    padding: 12px;
+    grid-row-gap: 25px;
+    margin-right: 20%;
+    margin-left: 20%;
+}
+.backgroungcolor {
+    padding-bottom:50px;
+    padding-top:20px;
+    padding-right:20px;
+    padding-left:20px;
+    height: 350px;
+    width: 370px;
+    background-color: rgba(220, 210, 210,0.4);
+    border-radius: 7px;
+    font-size:20px;
+}
+.hobbies {
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-column-gap: 30px;
+    padding: 12px;
+    grid-row-gap: 25px;
+    margin-right: 20%;
+    margin-left: 20%;
+}
+.hobby {
+    /*padding-bottom: 15px;*/
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
+    height: 350px;
+    width: 400px;
+    background-color: rgba(220, 210, 210,0.4);
+    border-radius: 7px;
+    font-size: 20px;
+}
+.Charateristics {
+    width: 50%;
+    height: 60px;
+    border-radius: 5px;
+    border: solid rgb(11, 9, 9);
+    background-color: white;
+    margin-bottom: 13px;
+    font-size: 20px;
+}
+.Charateristics:hover {
+        background-color: #e785ba;
+}
+.eyes {
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-column-gap: 30px;
+    padding: 12px;
+    grid-row-gap: 25px;
+    margin-right: 20%;
+    margin-left: 20%;
+    margin-bottom: 13px;
+}
+.eye {
+    /*padding-bottom: 15px;*/
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
+    height: 350px;
+    width: 400px;
+    background-color: rgba(220, 210, 210,0.4);
+    border-radius: 7px;
+    font-size: 20px;
+}
+.drink {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-left: 22%;
+    margin-right: 22%;
+}
+.drinkbackground {
+    padding: 20px;
+    background-color: rgba(220, 210, 210,0.1);
+    border-radius: 10px;
+    font-size: 20px;
+}
+.buttons {
+    display: flex;
+    flex-direction: column;
+    margin-left: 35%;
+    font-size: 35px;
+}
+
+.headerall {
+   margin-top :-10px;
+    font-size: 120px;
+
+}
+#make{
+    margin-left:20px;
+}
+.button1 {
+    width: 200px;
+    height: 40px;
+    border-radius: 5px;
+    font-size: 15px;
+    margin-top: 10px;
+}
+.button {
+    width: 500px;
+    height: 40px;
+    border-radius: 5px;
+    font-size: 15px;
+    margin-top: 10px;
+}
+.imgandbutton {
+    display: flex;
+    flex-direction: column;
+    margin-top: -90px;
+}
+.friend{
+    margin-right :50%; 
+    font-size:20px;
+}
+/*.aetgar {
+    margin-top: 20px;
+    padding-right: 70px;
+    padding-left: 70px;
+    width: 100px;
+    border-radius: 5px;
+    text-decoration: none;
+    background-color: rgba(170, 165, 165, 0.40);
+    margin-left: 13%;
+    color: black;
+}
+.acolor {
+    margin-top: 20px;
+    padding-right: 50px;
+    padding-left: 50px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    width: 100px;
+    border-radius: 5px;
+    text-decoration: none;
+    background-color: rgba(170, 165, 165, 0.40);
+    color: black;
+}
+.aCharateristics {
+    padding-right: 50px;
+    padding-left: 50px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    width: 100px;
+    border-radius: 5px;
+    text-decoration: none;
+    background-color: rgba(170, 165, 165, 0.40);
+    color: black;
+}
+.aeye {
+    margin-top: 20px;
+    padding-right: 70px;
+    padding-left: 70px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    width: 100px;
+    border-radius: 5px;
+    text-decoration: none;
+    background-color: rgba(170, 165, 165, 0.40);
+    color: black;
+}
+.ahobby {
+    margin-top: 20px;
+    padding-right: 70px;
+    padding-left: 70px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    width: 100px;
+    border-radius: 5px;
+    text-decoration: none;
+    background-color: rgba(170, 165, 165, 0.40);
+    color: black;
+}
+.afood {
+    margin-top: 50px;
+    padding-right: 70px;
+    padding-left: 70px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    width: 100px;
+    border-radius: 5px;
+    text-decoration: none;
+    background-color: rgba(170, 165, 165, 0.40);
+    color: black;
+}
+.adate {
+    margin-top: 50px;
+    padding-right: 70px;
+    padding-left: 70px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    width: 100px;
+    border-radius: 5px;
+    text-decoration: none;
+    background-color: rgba(170, 165, 165, 0.40);
+    color: black;
+}
+.atrip {
+    margin-bottom: -50px;
+    padding-right: 70px;
+    padding-left: 70px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    width: 100px;
+    border-radius: 5px;
+    text-decoration: none;
+    background-color: rgba(170, 165, 165, 0.40);
+    color: black;
+}*/
+.buttonfinish {
+    height: 50%;
+    width: 50%;
+    border-radius: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 25px;
+}
+h5{
+   margin-top:10px;
+    font-size:50px;
+}
